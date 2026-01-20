@@ -1,0 +1,3 @@
+[submodule "pg_crdt"]
+	path = pg_crdt
+	url = git@github.com:cameronb23/pg_crdt.git
